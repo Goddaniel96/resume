@@ -1,20 +1,20 @@
-# resume
-โปรเจกต์นี้คือ Interactive Resume แบบ Single Page ที่เน้นความ Minimalist และการใช้งานที่ลื่นไหล (Smooth UX) โดยออกแบบมาเพื่อนำเสนอทักษะด้าน Computer Engineering, Data Science และ Operations ของผมโดยเฉพาะ
+📄 Interactive Resume & Portfolio
+This project is a Minimalist Interactive Resume designed to showcase my journey as a Computer Engineering student with a focus on Data Science and Operations. It blends a professional aesthetic with functional, high-performance code.
 
 ✨ Key Features
-Dynamic Navigation: ระบบ Scroll Spy ที่เปลี่ยนสถานะเมนูตามตำแหน่งการอ่านจริง
+Dynamic Navigation: Features a smooth "Scroll Spy" mechanism where the sidebar menu highlights automatically based on the user's reading position.
 
-Interactive Projects: สามารถเพิ่ม (Add) หรือลบ (Remove) โปรเจกต์ได้ผ่าน UI โดยตรง พร้อมระบบจัดการ Tags เทคโนโลยีที่ใช้งานง่าย
+Project Management UI: Users can dynamically add new projects or remove existing ones via a custom-built modal and interactive interface.
 
-Modern Core Tools UI: แสดงทักษะความเชี่ยวชาญในรูปแบบ Badge Grid ที่สะอาดตา แทนการใช้หลอดพลังแบบเดิม
+Modern Core Tools: Replaces traditional "power bars" with a clean, searchable, and hover-active Badge Grid for technical skills.
 
-Responsive Design: รองรับการแสดงผลทุกหน้าจอ ตั้งแต่ Desktop จนถึง Mobile
+Optimized for Mobile: Fully responsive layout that adapts from large desktop monitors to mobile devices.
 
-Performance: เขียนด้วย Vanilla HTML, CSS และ JavaScript แท้ๆ (No Frameworks) เพื่อความรวดเร็วในการโหลด
+Performance-First: Built entirely with Vanilla HTML, CSS, and JavaScript for near-instant load times without the overhead of heavy frameworks.
 
 🛠️ Tech Stack
-Frontend: HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+)
+Frontend: HTML5, CSS3 (using Flexbox and CSS Grid), and JavaScript (ES6+).
 
-Design System: เน้นโทนสี Cream, Navy และ Red (Accent) เพื่อความ Professional และอ่านง่าย
+Design Language: A curated palette of Cream, Navy, and Accent Red for a professional yet modern look.
 
-Typography: ใช้ Google Fonts (Syne สำหรับหัวข้อ และ IBM Plex Mono/Sans สำหรับเนื้อหา)
+Typography: Utilizes Syne for bold headers and IBM Plex Mono/Sans for technical readability.
